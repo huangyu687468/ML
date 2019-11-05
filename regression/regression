@@ -1,3 +1,4 @@
+```python
 # !/usr/bin/env python
 # coding:utf-8
 # Author: Huangyu
@@ -63,3 +64,4 @@ plt.ylim = (-5,5)
 plt.xlabel(r'$b$',fontsize = 16)
 plt.ylabel(r'$b$',fontsize = 16)
 plt.show()
+```
